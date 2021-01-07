@@ -1,0 +1,12 @@
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\bin\Debug\TxtEditor.exe.config
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\bin\Debug\TxtEditor.exe
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\bin\Debug\TxtEditor.pdb
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csprojAssemblyReference.cache
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\obj\Debug\TxtEditor.TxtForm.resources
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\obj\Debug\TxtEditor.Properties.Resources.resources
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csproj.GenerateResource.cache
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csproj.CoreCompileInputs.cache
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\obj\Debug\TxtEditor.exe
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\obj\Debug\TxtEditor.pdb
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\obj\Debug\TxtEditor.SearchForm.resources
+F:\src\source code for 2019\CSharp\.NET Course\TxtEditor\TxtEditor\obj\Debug\TxtEditor.ReplaceForm.resources

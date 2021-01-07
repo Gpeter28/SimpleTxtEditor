@@ -17,5 +17,6 @@
 选择 格式=>字体后出现以下选择框，选择自己所需要的字体  
 
 ![error](./MDPicture/FontDialog.png)  
-  
-[PersonalLink](https://github.com/Gpeter28/SimpleTxtEditor/)
+
+
+[个人GitHub链接](https://github.com/Gpeter28/SimpleTxtEditor/)
